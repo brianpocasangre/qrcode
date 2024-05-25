@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "Qr-code project from The Complete 2024 Web Development Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brianpocasangre/qrcode.git"
+  },
+  "author": "Brian Pocasangre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianpocasangre/qrcode/issues"
+  },
+  "homepage": "https://github.com/brianpocasangre/qrcode#readme",
+  "dependencies": {
+    "inquirer": "^9.2.22",
+    "qr-image": "^3.2.0"
+  }
+}
